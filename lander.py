@@ -1,7 +1,6 @@
 # Andy Zeyher
 # Section 068
 
-# fix negative altitude issue
 
 import sys
 
